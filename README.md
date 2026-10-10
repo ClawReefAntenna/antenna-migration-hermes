@@ -24,3 +24,9 @@ relay-retirement path; use Antenna Migration for OpenClaw on an OpenClaw relay.
 License: [MIT](LICENSE).
 
 [Build and dependency provenance](packaging/README.md).
+
+## Developer source
+
+The [developer source Git bundle](https://github.com/ClawReefAntenna/antenna-migration-hermes/releases/download/v1.6.9/antenna-migration-hermes-1.6.9.git.bundle)
+contains tests and build tools. It is not the installable kit; use the `.tgz`
+archive above for normal use.
